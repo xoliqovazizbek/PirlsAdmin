@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "988177748088",
+    "firebase_url": "https://pirls-uzbekistan-default-rtdb.firebaseio.com",
+    "project_id": "pirls-uzbekistan",
+    "storage_bucket": "pirls-uzbekistan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988177748088:android:169dac3cb797019fd09d8d",
+        "android_client_info": {
+          "package_name": "com.example.pirls_uzbekistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988177748088-4slu8k9dm82c2dnve8joinec91tfptru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzE-Tryq2V-iEeebPsA7Bq4kLJmAJvY3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988177748088-4slu8k9dm82c2dnve8joinec91tfptru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988177748088:android:97c25133bcdc21bcd09d8d",
+        "android_client_info": {
+          "package_name": "uz.coder.pirlsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988177748088-4slu8k9dm82c2dnve8joinec91tfptru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzE-Tryq2V-iEeebPsA7Bq4kLJmAJvY3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988177748088-4slu8k9dm82c2dnve8joinec91tfptru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
